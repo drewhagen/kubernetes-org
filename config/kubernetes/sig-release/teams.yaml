@@ -78,7 +78,6 @@ teams:
     - mborsz # Scalability
     - micahhausler # Auth
     - michelle192837 # Testing
-    - michellengnx # 1.34 Docs Lead
     - mickeyboxell # 1.32 Release Manager Shadow
     - mikezappa87 # Network
     - mm4tt # Scalability
@@ -121,6 +120,7 @@ teams:
     - tico88612 # 1.32 ~ 1.34 Release Signal Shadow
     - towca # Autoscaling
     - upodroid # K8s Infra
+    - Urvashi0109 # 1.35 Docs Lead
     - Verolop # Release Manager
     - wojtek-t # Scalability
     - xing-yang # Storage
@@ -316,12 +316,12 @@ teams:
           release-team-docs:
             description: Members of the Docs team for the current release cycle.
             members:
-            - ArvindParekh # 1.34 Docs Shadow
-            - michellengnx # 1.34 Docs Lead
-            - rashansmith # 1.34 Docs Shadow
-            - ryan-su-12 # 1.34 Docs Shadow
-            - Urvashi0109 # 1.34 Docs Shadow
-            - yujen77300 # 1.34 Docs Shadow
+            - anshuman-agarwala # 1.35 Docs Shadow
+            - Jimmykhangnguyen # 1.35 Docs Shadow
+            - kernel-kun # 1.35 Docs Shadow
+            - OrlinVasilev # 1.35 Docs Shadow
+            - sayanchowdhury # 1.35 Docs Shadow
+            - Urvashi0109 # 1.35 Docs Lead
             privacy: closed
           release-team-comms:
             description: Members of the Comms team for the current release cycle.
